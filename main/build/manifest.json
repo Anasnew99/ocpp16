@@ -1,0 +1,8 @@
+{
+  "short_name": "OCPP EV Client",
+  "name": "OCPP EV Client Testing",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
